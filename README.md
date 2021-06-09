@@ -22,7 +22,8 @@ Assalamualaikum. Ini merupakan pratikum website saya untuk memenuhi tugas mataku
 3. Buat file baru dengan nama home.php
 ![3](https://user-images.githubusercontent.com/59682730/121333991-7baf2600-c943-11eb-8f63-70c7e497d70f.PNG)
 - Kemudian buka melalui browser untuk menampilkan file home.php
-
+![3a](https://user-images.githubusercontent.com/59682730/121336306-96829a00-c945-11eb-890e-172767a7026a.PNG)
 4. Buat file baru dengan nama about.php
-
+![4](https://user-images.githubusercontent.com/59682730/121336330-9bdfe480-c945-11eb-864f-d4a47abd3f86.PNG)
 - Kemudian buka melalui browser untuk menampilkan file about.php
+![4a](https://user-images.githubusercontent.com/59682730/121336335-9d111180-c945-11eb-894c-a3b0fdc6806e.PNG)
